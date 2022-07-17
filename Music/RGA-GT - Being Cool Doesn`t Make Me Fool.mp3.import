@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/RGA-GT - Being Cool Doesn`t Make Me Fool.mp3-94f2f0155a456a85cff1f00cf6bcdffa.mp3str"
+
+[deps]
+
+source_file="res://Music/RGA-GT - Being Cool Doesn`t Make Me Fool.mp3"
+dest_files=[ "res://.import/RGA-GT - Being Cool Doesn`t Make Me Fool.mp3-94f2f0155a456a85cff1f00cf6bcdffa.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
